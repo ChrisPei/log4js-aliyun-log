@@ -1,0 +1,23 @@
+{
+  "name": "log4js-aliyun-log",
+  "version": "1.0.1",
+  "description": "log4js-aliyun-log",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisPei/log4js-aliyun-log"
+  },
+  "keywords": [
+    "aliyun",
+    "sls",
+    "log",
+    "log4js",
+    "appender"
+  ],
+  "dependencies": {
+    "aliyun-sdk": "^1.9.14"
+  },
+  "author": "ChrisPei",
+  "license": "MIT",
+  "devDependencies": {}
+}
